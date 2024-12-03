@@ -36,6 +36,7 @@ images.json       # JSON file containing paths to the images
 ## Notes
 - The images are loaded from the `images.json` file, which contains paths to the images in the `/images` directory.
 - The CSS file (`styles.css`) handles the background image styling, and the JavaScript (`main.js`) randomly selects an image from the `images.json` file.
+- You can replace `icon.ico` with a custom icon!
 
 ## License
 This project is open source and available under the GNU General Public License v3.0 License.
