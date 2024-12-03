@@ -1,0 +1,14 @@
+{
+  "name": "lulu-website",
+  "version": "1.0.0",
+  "description": "Displays random photos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "author": "Midnight Doggo",
+  "license": "ISC"
+}
